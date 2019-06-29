@@ -1,3 +1,5 @@
+#copying and pasting over from when I completed this prior  simple-blackjack-cli-london-web-062419
+
 def welcome
   puts "Welcome to the Blackjack Table"
 end
